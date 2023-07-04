@@ -25,7 +25,7 @@ history](https://bioconductor.org/shields/years-in-bioc/cshl2023pkg.svg)](https:
 commit](https://bioconductor.org/shields/lastcommit/devel/bioc/cshl2023pkg.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/cshl2023pkg/)
 [![Bioc
 dependencies](https://bioconductor.org/shields/dependencies/release/cshl2023pkg.svg)](https://bioconductor.org/packages/release/bioc/html/cshl2023pkg.html#since)
-[![R-CMD-check-bioc](https://github.com/lcolladotor/cshl2023pkg/actions/workflows/R-CMD-check-bioc.yaml/badge.svg)](https://github.com/lcolladotor/cshl2023pkg/actions/workflows/R-CMD-check-bioc.yaml)
+[![R-CMD-check-bioc](https://github.com/lcolladotor/cshl2023pkg/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/lcolladotor/cshl2023pkg/actions/workflows/R-CMD-check-bioc.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/lcolladotor/cshl2023pkg/branch/devel/graph/badge.svg)](https://app.codecov.io/gh/lcolladotor/cshl2023pkg?branch=devel)
 <!-- badges: end -->
