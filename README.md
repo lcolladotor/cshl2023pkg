@@ -96,7 +96,7 @@ Please run this yourself to check for any updates on how to cite
 **cshl2023pkg**.
 
 ``` r
-print(citation('cshl2023pkg'), bibtex = TRUE)
+print(citation("cshl2023pkg"), bibtex = TRUE)
 #> To cite package 'cshl2023pkg' in publications use:
 #> 
 #>   lcolladotor (2023). _Demo CSHL package_.

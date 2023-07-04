@@ -1,3 +1,3 @@
 test_that("leo works", {
-  expect_equal(leo(), "leo")
+    expect_equal(leo(), "leo")
 })
